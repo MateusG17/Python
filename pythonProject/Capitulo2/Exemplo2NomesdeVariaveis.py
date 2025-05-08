@@ -1,5 +1,5 @@
 #nao podemos comecar com numeros
-76trombones= "Ligue parede"
+#76trombones= "Ligue parede"
 
 #sem caracteres especiais
-mor@= 1000
+#mor@= 1000
